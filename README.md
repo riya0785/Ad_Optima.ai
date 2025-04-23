@@ -4,7 +4,7 @@ Ad Bidding Optimization Using Reinforcement Learning
 📌 Project Title:
 Ad Bidding Optimization Using DQN, PPO, and Actor-Critic Algorithms
 
-📖 Description:
+**📖 Description:**
 This project explores the use of Deep Reinforcement Learning (DRL) techniques—DQN (Deep Q-Network), PPO (Proximal Policy Optimization), and Actor-Critic—to optimize bidding strategies in real-time bidding (RTB) systems for online advertising. Each model is trained per website to maximize click-through performance while simulating discrete and continuous bid environments.
 
 
