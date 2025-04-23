@@ -1,6 +1,6 @@
 # Ad_Optima.ai
 
-EADME.md – Ad Bidding Optimization Using Reinforcement Learning
+Ad Bidding Optimization Using Reinforcement Learning
 📌 Project Title:
 Ad Bidding Optimization Using DQN, PPO, and Actor-Critic Algorithms
 
