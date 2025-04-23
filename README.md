@@ -1,7 +1,8 @@
 # Ad_Optima.ai
 
 Ad Bidding Optimization Using Reinforcement Learning
-📌 Project Title:
+
+**📌 Project Title:**
 Ad Bidding Optimization Using DQN, PPO, and Actor-Critic Algorithms
 
 **📖 Description:**
